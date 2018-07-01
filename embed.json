@@ -1,0 +1,187 @@
+{
+  "embeds": [
+    {
+      "color": 12303291,
+      "image": {
+        "url": "https://cdn.pbrd.co/images/GTO6lgw.png"
+      },
+      "author": {
+        "name": "Warframe Resources (General)",
+        "url": "https://discordapp.com",
+        "icon_url": "https://www.bleedingcool.com/wp-content/uploads/2017/12/warframe-Logo.jpg"
+      },
+      "fields": [
+        {
+          "name": "*General:*",
+          "value": "\t\t\t**Warframe Wiki** - <http://warframe.wikia.com>\n\t\t\t**Warframe sub-Reddit** - <https://www.reddit.com/r/Warframe>\n\t\t\t**Player Etiquette** - <https://goo.gl/iRQeTC>\n\t\t\t**Promo Codes** - <https://goo.gl/4KqAAm>"
+        },
+        {
+          "name": "*Dashboards (event trackers):*",
+          "value": "\t\t\t**Warframe Hub** - <https://hub.warframestat.us/>\n\t\t\t**Tenno Tools** - <https://tenno.tools/>\n\t\t\t**Acolyte Tracker** - <https://goo.gl/DnpbsL>"
+        },
+        {
+          "name": "*Drop Tables/Locations:*",
+          "value": "\t\t\t**Official Drop Tables** - <https://goo.gl/UpZQ88>\n\t\t\t\t*The following resources are based on the official drop tables and provide \n\t\t\t\tmore user-friendly ways to search for items.*\n\t\t\t\t\t\t**Destiny Trade (Also has other resources)** - <http://destiny.trade>\n\t\t\t\t\t\t**Semlar (Also has more functions)** - <https://semlar.com>\n\t\t\t\t\t\t**WarFarm** - <https://www.war.farm/index.php>\n\t\t\t\t\t\t**Tenno Zone** - <https://tenno.zone/>\n\t\t\t\t\t\t**Warframe Intel (Relic Drops)** - <https://wf.xuerian.net/#welcome>"
+        },
+        {
+          "name": "*Build Tools (Frames & Weapons):*",
+          "value": "\t\t\t**Warframe Builder** - <http://warframe-builder.com>"
+        },
+        {
+          "name": "*Weapons:*",
+          "value": "\t\t\t**PvE Tier List (Weapon Potential)** - <http://www.cephalonwannab.com/>\n\t\t\t**Damage Chart** - <https://goo.gl/2J8Z1N>\n\t\t\t**Weapons Required as Crafting Ingredients** - <https://goo.gl/Up56dz>"
+        },
+        {
+          "name": "*Trading:*",
+          "value": "\t\t\t**Warframe Market (Trade)** - <http://warframe.market>\n\t\t\t\t\t\t**Warframe Chart (Prices Tracker)** - <https://warframechart.ct8.pl>\n\t\t\t\t\t\t**NexusStats (Price Checks)** - <https://nexus-stats.com>\n\t\t\t**Warframe Trader (rivens)** - <https://www.wftrader.com/>\n\t\t\t**Riven Market** - <https://riven.market/>\n\t\t\t\t\t\t**Riven Calculator** - <https://semlar.com/rivencalc>"
+        },
+        {
+          "name": "*Focus: (**SPOILERS**)*",
+          "value": "\t*Return here when you're at the end of The Second Dream.*\n\t\t\t**Focus Progression Tracker** - <https://goo.gl/Qm1ijy>"
+        },
+        {
+          "name": "*Companion Apps/Software: (Use at own risk, do research beforehand)*",
+          "value": "\t\t\t**WFInfo APP** - <https://sites.google.com/site/wfinfoapp/>\n\t\t\t\t\t*Description: WFInfo is a companion app for Warframe that gives quick \n\t\t\t\t\tlive access to platinum and ducat prices for in game primed parts and\n\t\t\t\t\tmods during the fissure reward screen.*\n\t\t\t\t\t*Disclaimer: May not be supported by DE, use at own risk.*\n\t\t\t\t\t*Developer Reply: See image attached below.*\n\t\t\t\t\t*Approved and used by @AvatarX76#1834*"
+        },
+        {
+          "name": "** **",
+          "value": "** **"
+        }
+      ]
+    },
+    {
+      "color": 4886754,
+      "image": {
+        "url": "https://cdn.pbrd.co/images/GM497EA.png"
+      },
+      "author": {
+        "name": "Warframe Resources (Guides)",
+        "url": "https://discordapp.com",
+        "icon_url": "https://www.bleedingcool.com/wp-content/uploads/2017/12/warframe-Logo.jpg"
+      },
+      "fields": [
+        {
+          "name": "*General:*",
+          "value": "\t\t\t**The Big Baro Guide** - <https://goo.gl/qJNrk8>\n\t\t\t**Focus, Affinity, Simaris Farm** - <https://youtu.be/rkATmJ98d8o>\n\t\t\t**Dojo Pigment Farming Guide (by @Corvinus (iggy1eco)#3057** \n\t\t\t\t\t<https://goo.gl/eFkQdV>"
+        },
+        {
+          "name": "*Lore (**SPOILERS**):*",
+          "value": "\t*Return here when you're at the end of The Second Dream.*\n\t\t\t**Lore Explainations** - <https://goo.gl/F5QsWq>\n\t\t\t**The Unum and the Multiverse** - <https://goo.gl/wobQrL>\n\t\t\t**Lore Entire Timeline** - <https://www.youtube.com/watch?v=aAW1UxC_reo>"
+        },
+        {
+          "name": "*Modding/Builds:*",
+          "value": "\t\t\t**How to Build for a Primary Weapon** - <https://goo.gl/vvcmBH>\n\t\t\t**How to Build for a Primary Weapon Part 2** - <https://goo.gl/1odwNg>"
+        },
+        {
+          "name": "*Rivens (**SPOILERS**):*",
+          "value": "\t\t\t**Riven Challenges Guide** - <https://goo.gl/gAChcL>"
+        },
+        {
+          "name": "*Focus Farming (**SPOILERS**):*",
+          "value": "\t*Return here when you're at the end of The Second Dream.*\n\t\t\t**Focus Farming Tips** - <https://www.youtube.com/watch?v=KSf_CcuQkP4>"
+        },
+        {
+          "name": "*Syndicates:*",
+          "value": "\t\t\t**Syndicate Item Guide (by @ NeverZ3r)** - <https://goo.gl/AGd3PQ>\n\t\t\t**Syndicate Alliance Guide (by @ NeverZ3r)** - See image attached below."
+        },
+        {
+          "name": "*Kuria:*",
+          "value": "\t\t\t**Kuria Guide** - <https://goo.gl/6j16Z9>\n\t\t\t**Kuria Guide 2** - <https://goo.gl/CXrzWn>"
+        },
+        {
+          "name": "** **",
+          "value": "** **"
+        }
+      ]
+    },
+    {
+      "color": 16098851,
+      "image": {
+        "url": "https://i.redd.it/ue323v8vuzrz.png"
+      },
+      "author": {
+        "name": "Warframe Resources (Plains of Eidolon)",
+        "url": "https://discordapp.com",
+        "icon_url": "https://www.bleedingcool.com/wp-content/uploads/2017/12/warframe-Logo.jpg"
+      },
+      "fields": [
+        {
+          "name": "** **",
+          "value": "*Anything regarding the Plains/Cetus will be here.*"
+        },
+        {
+          "name": "*General:*",
+          "value": "\t\t\t**Day Night Cycle Clock (PoE)** - <https://clockofeidolon.com/>\n\t\t\t**PoE Guide** - <https://i.redd.it/ue323v8vuzrz.png>\n\t\t\t**PoE Resource Map** - <https://goo.gl/YE7E9e>"
+        },
+        {
+          "name": "*Wisps:*",
+          "value": "\t\t\t**Cetus Wisp Hunting Guide** - <https://goo.gl/UTyCQY>"
+        },
+        {
+          "name": "*Fishing:*",
+          "value": "\t\t\t**PoE Fishing Reference & Map** - <https://hub.warframestat.us/fish>\n\t\t\t**Fishing Datamined Information** - <http://wf.poedb.tw/us/item.php?c=Fish>"
+        },
+        {
+          "name": "*Custom Zaw:*",
+          "value": "\t\t\t**Zaw Builder** - <https://semlar.com/zawcalc>\n\t\t\t **Zaw Stats** - <http://tiny.cc/zawstats>"
+        },
+        {
+          "name": "*Amps:*",
+          "value": "\t\t\t**Amp Builder** - <https://semlar.com/ampcalc>\n\t\t\t**Amp Stats Spreadsheet** - <http://tiny.cc/ampstats>"
+        },
+        {
+          "name": "*Eidolon Hunting/Capture (**SPOILERS**):*",
+          "value": "\t*Return here when you're at the end of The War Within.*\n\t\t\t**Tridolon Video Guide for all 4 roles** - <https://goo.gl/zMHHSu>\n\t\t\t**Eidolon Lure Map** - <https://goo.gl/ki4QUc>\n\t\t\t**Eidolon Arcane Drops (by @Cosmoxander#0647)** - <https://goo.gl/8hxymU>"
+        },
+        {
+          "name": "** **",
+          "value": "** **"
+        }
+      ]
+    },
+    {
+      "color": 16711680,
+      "author": {
+        "name": "Warframe Resources (Youtubers)",
+        "url": "https://discordapp.com",
+        "icon_url": "https://www.bleedingcool.com/wp-content/uploads/2017/12/warframe-Logo.jpg"
+      },
+      "fields": [
+        {
+          "name": "** **",
+          "value": "*These youtubers usually have great builds, or will teach you new things.*"
+        },
+        {
+          "name": "** **",
+          "value": "\t\t\t**N00blShowtek** - <https://www.youtube.com/user/lN00blShowtek>\n\t\t\t**distant Observer** - <https://goo.gl/FxhaqS>\n\t\t\t**Tactical Potato** - <https://www.youtube.com/user/Sordats>\n\t\t\t**iFylnn** - <https://www.youtube.com/user/xiFlynn>\n\t\t\t**Life of Rio** - <https://goo.gl/cyeEiN>\n\t\t\t**Mogamu** - <https://www.youtube.com/user/mogamuTV>\n\t\t\t**MCGamerCZ** - <https://www.youtube.com/user/MCGamerCZ>\n\t\t\t **Brozime** - <https://www.youtube.com/user/Brozime>"
+        },
+        {
+          "name": "** **",
+          "value": "** **"
+        }
+      ]
+    },
+    {
+      "color": 4886754,
+      "author": {
+        "name": "Discord Resources",
+        "url": "https://discordapp.com",
+        "icon_url": "https://www.bleedingcool.com/wp-content/uploads/2017/12/warframe-Logo.jpg"
+      },
+      "fields": [
+        {
+          "name": "** **",
+          "value": "*These youtubers usually have great builds, or will teach you new things.*"
+        },
+        {
+          "name": "** **",
+          "value": "\t\t\t**Windows Discord Hotkeys ** - <https://goo.gl/TyBjPY>"
+        },
+        {
+          "name": "** **",
+          "value": "** **"
+        }
+      ]
+    } 
+  ]
+}
